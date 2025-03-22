@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @CASHFLOWCONNECT001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-CASHFLOWCONNECT001/CASHFLOWCONNECT001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @CASHFLOWCONNECT001  
+- 👀 I’m interested in **building innovative fintech solutions**  
+- 🌱 I’m currently learning **advanced backend systems & payment integrations**  
+- 💞️ I’m looking to collaborate on **app development, payment processing, and referral systems**  
+- 📫 How to reach me: ** russellalmeric9Ggmail.com or FB @RUSSELL ALMeRIC ]**  
+- 😄 Pronouns: **HE**  
+- ⚡ Fun fact: **I believe every transaction should come with a reward! 🚀**  
