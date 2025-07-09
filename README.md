@@ -1,4 +1,4 @@
-👋 Hi, I’m @CASHFLOWCONNECT001  
+👋 Hi, I’m @JOSHUA-RUSSELL 
 - 👀 I’m interested in **building innovative fintech solutions**  
 - 🌱 I’m currently learning **advanced backend systems & payment integrations**  
 - 💞️ I’m looking to collaborate on **app development, payment processing, and referral systems**  
